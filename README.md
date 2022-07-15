@@ -6,11 +6,23 @@
 ## Built With
 
 - **Ruby**
+- **Git**
   
+## Live Work
+![image](https://user-images.githubusercontent.com/61356487/179194092-f4a51033-0872-45dd-8167-5fd212b7ecca.png)
+
 
 ## Getting Started
 
 Clone the project, make sure you have ruby installed and you are good to go
+
+```git clone https://github.com/Mikelobi/Decode-morse.git```
+
+Afterward change the directory into the current project
+
+```cd Decode-morse ```
+
+
 
 ## Author
 
