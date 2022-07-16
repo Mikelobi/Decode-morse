@@ -1,73 +1,50 @@
+# ruby-morse-code
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-
-> Description the project.
-
+> This repo hosts a nifty ruby program which allows you to decipher morse code into english.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- **Ruby**
+- **Git**
+  
+## Live Work
+![image](https://user-images.githubusercontent.com/61356487/179194092-f4a51033-0872-45dd-8167-5fd212b7ecca.png)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+Clone the project, make sure you have ruby installed and you are good to go
 
+```git clone https://github.com/Mikelobi/Decode-morse.git```
 
-To get a local copy up and running follow these simple example steps.
+Afterward change the directory into the current project
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+```cd Decode-morse ```
 
 
 
-## Authors
+## Author
 
-👤 **Author1**
+👤 **Ugochukwu**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Mikelobi](https://github.com/Mikelobi)
+- Twitter: [Mikelobi](https://twitter.com/omulum)
+- LinkedIn: [Mikelobi](https://www.linkedin.com/in/ugochukwu.omulu/)
 
-👤 **Author2**
+👤 **Victor Damola**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@V0pe](https://github.com/V0pe)
+- Twitter: [@de_vope_](https://twitter.com/de_vope)
+- LinkedIn: [Victor Damola](https://linkedin.com/in/victor-damola-aderibigbe-27931ab0)
+
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Mikelobi/decode-morse/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
